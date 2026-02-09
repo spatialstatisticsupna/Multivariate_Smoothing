@@ -7,13 +7,13 @@ This repository contains the R code to fit in NIMBLE the code to replicate and r
 
 1.  [Data](#Data)
 2.  [R code](#Rcode)
-    1.  [Within Simulation Study](#WSS)
-    2.  [Across Simulation Study](#ASS)
-    3.  [RealData Illustration](#illus)
+    1.  [Within Simulation Study]
+    2.  [Across Simulation Study]
+    3.  [RealData Illustration]
 3.  [Acknowledgements](#Acknowledgements)
 4.  [References](#Ref)
 
-# Data {#data}
+# Data {#Data}
 
 This folder contains the datasets and cartography files used in the simulation studies and data illustrations presented in the work.
 
@@ -27,7 +27,7 @@ This folder contains the datasets and cartography files used in the simulation s
 
 This folder contains the R code to replicate and reproduce the within prior and across priors simulation studies, as well as the data illustration described in the paper. The code is organized into three subfolders, each corresponding to a specific part of the study:
 
-1.  Within Prior Simulation Study (available [here](https://github.com/spatialstatisticsupna/Multivariate_Smoothing/tree/main/R/Within_SimulationStudy)).
+1.  Within Prior Simulation Study (available [here](https://github.com/spatialstatisticsupna/Multivariate_Smoothing/tree/main/R/Within_SimulationStudy)). 
 
     -   This folder includes code to fit the three spatial priors discussed in Section 3.2 of the paper: iCAR, LCAR, and L$_j$CAR.
 
@@ -37,7 +37,7 @@ This folder contains the R code to replicate and reproduce the within prior and 
 
     -   Results are generated using `Code_ResultsWithin.R`.
 
-2.  Across Priors Simulation Study (available [here](https://github.com/spatialstatisticsupna/Multivariate_Smoothing/tree/main/R/Across_SimulationStudy)).
+2.  Across Priors Simulation Study (available [here](https://github.com/spatialstatisticsupna/Multivariate_Smoothing/tree/main/R/Across_SimulationStudy)). 
 
     -   This folder includes both model-fitting scripts and result generation code.
 
@@ -51,9 +51,10 @@ This folder contains the R code to replicate and reproduce the within prior and 
 
     -   Separate scripts are provided for the pairwise analysis and joint analysis.
 
-# Acknowledgements {#acknowledgements}
+# Acknowledgements {Acknowledgements}
 
 The work was supported by Project PID2020-113125RB-I00/MCIN/AEI/10.13039/501100011033, PID2024-155382OB-I00 funded by MICIU/AEI/10.13039/501100011033 and FEDER, UE and BIOSTATNET - PROYECTOS REDES DE INVESTIGACI'ON 2024 - RED2024-153680-T/MICIU/AEI/.![plot](https://github.com/spatialstatisticsupna/Multivariate_Smoothing/blob/main/micin-aei.jpg)
 
 # References  {#ref}
+
 
