@@ -1,7 +1,4 @@
 
----
-bibliography: references.bib
----
 
 # Prior Smoothing for Multivariate Disease Mapping Models
 
@@ -61,6 +58,7 @@ The work was supported by Project PID2020-113125RB-I00/MCIN/AEI/10.13039/5011000
 
 ## References
 
+Beltrán-Sánchez, M.A., Martinez-Beneito M.A. and Corberán-Vallet Ana (2024). *Bayesian modeling of spatial ordinal data from health surveys*. Statistics in Medicine, 43(21), 4178--4193.
 
 
 
