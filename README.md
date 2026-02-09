@@ -5,15 +5,15 @@ This repository contains the R code to fit in NIMBLE the code to replicate and r
 
 ## Table of contents
 
-1.  [Data](#Data)
-2.  [R code](#Rcode)
-    1.  [Within Simulation Study]
-    2.  [Across Simulation Study]
-    3.  [RealData Illustration]
-3.  [Acknowledgements](#Acknowledgements)
-4.  [References](#Ref)
+1.  [Data](#data)
+2.  [R code](#r-code)
+    1.  Within Simulation Study
+    2.  Across Simulation Study
+    3.  RealData Illustration
+3.  [Acknowledgements](#acknowledgements)
+4.  [References](#ref)
 
-# Data {#Data}
+## Data 
 
 This folder contains the datasets and cartography files used in the simulation studies and data illustrations presented in the work.
 
@@ -23,7 +23,7 @@ This folder contains the datasets and cartography files used in the simulation s
 
 -   `Data_SimulationStudy_S1_47areas.Rdata`, `Data_SimulationStudy_S1_100areas.Rdata`, and `Data_SimulationStudy_S1_300areas.Rdata`: These datasets include the simulated data for Scenario 1 when Spain is divided into 47, 100 and 300 areas, respectively. Similar file naming structure, replacing `S1` with `S2`, `S3` or `S4` can be found for Scenarios 2, 3 and 4, respectively.
 
-# R code {#Rcode}
+## R code 
 
 This folder contains the R code to replicate and reproduce the within prior and across priors simulation studies, as well as the data illustration described in the paper. The code is organized into three subfolders, each corresponding to a specific part of the study:
 
@@ -51,10 +51,11 @@ This folder contains the R code to replicate and reproduce the within prior and 
 
     -   Separate scripts are provided for the pairwise analysis and joint analysis.
 
-# Acknowledgements {Acknowledgements}
+## Acknowledgements
 
 The work was supported by Project PID2020-113125RB-I00/MCIN/AEI/10.13039/501100011033, PID2024-155382OB-I00 funded by MICIU/AEI/10.13039/501100011033 and FEDER, UE and BIOSTATNET - PROYECTOS REDES DE INVESTIGACI'ON 2024 - RED2024-153680-T/MICIU/AEI/.![plot](https://github.com/spatialstatisticsupna/Multivariate_Smoothing/blob/main/micin-aei.jpg)
 
-# References  {#ref}
+## References
+
 
 
