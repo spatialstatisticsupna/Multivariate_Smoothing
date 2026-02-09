@@ -1,4 +1,8 @@
 
+---
+bibliography: references.bib
+---
+
 # Prior Smoothing for Multivariate Disease Mapping Models
 
 This repository contains the R code to fit in NIMBLE the code to replicate and reproduce the simulation study and real-data illustration of the paper entitled "Prior Smoothing for Multivariate Disease Mapping Models".
@@ -11,7 +15,7 @@ This repository contains the R code to fit in NIMBLE the code to replicate and r
     2.  Across Simulation Study
     3.  RealData Illustration
 3.  [Acknowledgements](#acknowledgements)
-4.  [References](#ref)
+4.  [References](#references)
 
 ## Data 
 
@@ -56,6 +60,7 @@ This folder contains the R code to replicate and reproduce the within prior and 
 The work was supported by Project PID2020-113125RB-I00/MCIN/AEI/10.13039/501100011033, PID2024-155382OB-I00 funded by MICIU/AEI/10.13039/501100011033 and FEDER, UE and BIOSTATNET - PROYECTOS REDES DE INVESTIGACI'ON 2024 - RED2024-153680-T/MICIU/AEI/.![plot](https://github.com/spatialstatisticsupna/Multivariate_Smoothing/blob/main/micin-aei.jpg)
 
 ## References
+
 
 
 
