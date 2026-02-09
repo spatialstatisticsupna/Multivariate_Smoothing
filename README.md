@@ -1,6 +1,3 @@
----
-bibliography: references.bib
----
 
 # Prior Smoothing for Multivariate Disease Mapping Models
 
@@ -48,9 +45,6 @@ This folder contains the R code to replicate and reproduce the within prior and 
 
     -   Results are generated using `Code_EmpiricalMetrics.R`.
 
-```{=html}
-<!-- -->
-```
 3.  Data Illustration (available [here](https://github.com/spatialstatisticsupna/Multivariate_Smoothing/tree/main/R/RealData_Illustration)).
 
     -   This folder contains the code used to fit the models and produce the results for the real data applications.
@@ -62,3 +56,4 @@ This folder contains the R code to replicate and reproduce the within prior and 
 The work was supported by Project PID2020-113125RB-I00/MCIN/AEI/10.13039/501100011033, PID2024-155382OB-I00 funded by MICIU/AEI/10.13039/501100011033 and FEDER, UE and BIOSTATNET - PROYECTOS REDES DE INVESTIGACI'ON 2024 - RED2024-153680-T/MICIU/AEI/.![plot](https://github.com/spatialstatisticsupna/Multivariate_Smoothing/blob/main/micin-aei.jpg)
 
 # References  {#ref}
+
