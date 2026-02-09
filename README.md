@@ -34,7 +34,7 @@ This folder contains the R code to replicate and reproduce the within prior and 
 
     -   Model-fitting scripts follow the format: `Code_Within_iCAR.R`, `Code_Within_LCAR.R` and `Code_Within_LjCAR.R`.
 
-    -   Note: the LCAR model implementation is based on Beltrán-Sánchez et al.
+    -   Note: the LCAR model implementation is based on Beltrán-Sánchez et al (2024).
 
     -   Results are generated using `Code_ResultsWithin.R`.
 
@@ -59,6 +59,7 @@ The work was supported by Project PID2020-113125RB-I00/MCIN/AEI/10.13039/5011000
 ## References
 
 Beltrán-Sánchez, M.A., Martinez-Beneito M.A. and Corberán-Vallet Ana (2024). *Bayesian modeling of spatial ordinal data from health surveys*. Statistics in Medicine, 43(21), 4178--4193.
+
 
 
 
