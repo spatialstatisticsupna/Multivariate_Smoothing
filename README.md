@@ -54,11 +54,11 @@ This folder contains the R code to replicate and reproduce the within prior and 
 
 ## Acknowledgements
 
-The work was supported by Project PID2020-113125RB-I00/MCIN/AEI/10.13039/501100011033, PID2024-155382OB-I00 funded by MICIU/AEI/10.13039/501100011033 and FEDER, UE and BIOSTATNET - PROYECTOS REDES DE INVESTIGACI'ON 2024 - RED2024-153680-T/MICIU/AEI/.![plot](https://github.com/spatialstatisticsupna/Multivariate_Smoothing/blob/main/micin-aei.jpg)
+The work was supported by Project PID2020-113125RB-I00/MCIN/AEI/10.13039/501100011033, PID2024-155382OB-I00 funded by MICIU/AEI/10.13039/501100011033 and FEDER, UE and BIOSTATNET - PROYECTOS REDES DE INVESTIGACIÓN 2024 - RED2024-153680-T/MICIU/AEI/.![plot](https://github.com/spatialstatisticsupna/Multivariate_Smoothing/blob/main/micin-aei.jpg)
 
 ## References
 
-Beltrán-Sánchez, M.A., Martinez-Beneito M.A. and Corberán-Vallet Ana (2024). *Bayesian modeling of spatial ordinal data from health surveys*. Statistics in Medicine, 43(21), 4178--4193.
+Retegui, G.,Ugarte, M.D., Etxeberria, J. and Gelfand, A.E. (2026). *Prior smoothing for multivariate disease mapping models*. Spatial Statistics, in press.
 
 
 
